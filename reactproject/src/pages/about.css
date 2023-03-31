@@ -1,0 +1,38 @@
+h5{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline crimson;
+    font-size: x-large;
+   margin-top: 10px;
+}
+p{
+    text-align: center;
+    
+    font-size: medium;
+}
+label{
+    font-size: medium;
+}
+.transparent {
+    background-color: rgba(0, 0, 0, 0.89) !important;
+  }
+  
+  .font-custom {
+    font-size: 16px bolt;
+    font-family: 'Bolt', 'Consolas';
+  }
+  
+  .navbar-brand {
+    color: rgb(240, 216, 136) !important;
+  }
+  
+  .nav-link {
+    color: rgb(88, 85, 243) !important;
+    margin-right: 4rem !important;
+    margin-left: 3rem;
+  }
+  .one{
+    align-items: center;
+  }
+  
+  
